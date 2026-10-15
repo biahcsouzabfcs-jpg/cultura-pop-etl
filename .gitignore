@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+data/
+*.tsv
+*.csv
+*tsv.gz
+*.parquet
+.env
+*.json
+credentials/
+*.pem
